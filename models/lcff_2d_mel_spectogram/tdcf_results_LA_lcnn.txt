@@ -1,0 +1,23 @@
+ASVspoof 2019 LA - Evaluation Results (LCNN countermeasure)
+==========================================================
+
+Overall:
+  Pooled EER : 4.45654 %
+  min t-DCF  : 0.10882
+  Trials     : 7355 bonafide / 63882 spoof
+
+Per-attack EER:
+  Attack         N     EER %
+  A07         4914     0.961
+  A08         4914     0.733
+  A09         4914     0.000
+  A10         4914     1.548
+  A11         4914     0.058
+  A12         4914     1.467
+  A13         4914     1.036
+  A14         4914     1.362
+  A15         4914     0.407
+  A16         4914     0.896
+  A17         4914    19.642
+  A18         4914     7.792
+  A19         4914     5.086
